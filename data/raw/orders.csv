@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,amount,order_date,status
+5001,101,P01,250.00,2023-03-01,Completed
+5002,102,P02,,15/03/2023,Pending
+5003,103,P01,250.00,04-05-2023,Completed
+5004,101,P03,120.50,2023-04-10,Completed
+5005,106,P02,85.00,22/05/2023,Cancelled
+5006,105,P04,,06-15-2023,Completed

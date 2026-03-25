@@ -1,0 +1,7 @@
+customer_id,name,email,region,signup_date,valid_email
+106,Emma Watson,emma@gmail.com,East,2023-06-20,True
+105,Tom Hank,,North,2023-05-12,False
+104,Sarah Lee,sarah@domain,West,2023-04-05,False
+103,Mike Jones,mikejones_no_at_sign.com,East,2023-03-10,False
+101,John Doe,johndoe@gmail.com,North,2023-03-05,True
+102,Jane Smith,jane.smith@yahoo.com,South,2023-02-20,True

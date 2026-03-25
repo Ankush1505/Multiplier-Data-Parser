@@ -1,0 +1,4 @@
+customer_id,name,region,total_spend,churned
+101,John Doe,North,370.5,False
+103,Mike Jones,East,250.0,False
+105,Tom Hank,North,0.0,False

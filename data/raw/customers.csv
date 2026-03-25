@@ -1,0 +1,8 @@
+customer_id,name,email,region,signup_date
+101,John Doe,johndoe@gmail.com,North,2023-01-15
+102,Jane Smith,jane.smith@yahoo.com,South,2023-02-20
+101,John Doe,johndoe@gmail.com,North,2023-03-05
+103,Mike Jones,mikejones_no_at_sign.com,East,2023-03-10
+104,Sarah Lee,sarah@domain,West,2023-04-05
+105,Tom Hank,,North,2023-05-12
+106,Emma Watson,EMMA@GMAIL.COM,East,2023-06-20
